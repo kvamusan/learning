@@ -1,0 +1,2108 @@
+                                                                             
+                                CHAPTER 1. INTRODUCTION
+
+       The fin de siècle of the nineteenth century saw slight improvement in the lives of white
+
+middle-and upper-class American women trying to escape the confining conditions of patriarchal
+
+authority. In a growing consensus, these women protested their exclusion from participating in
+
+activities outside of the home considered the domain and prerogative of men. Women privileged
+
+by social status were separated from public discourse and sequestered in their home as the proper
+
+place for women and children by sentiments of protected isolation. Social ideas about women
+
+were dictated by literature, sentiment, and the authority and praxis of medical professionals who
+
+eagerly proffered opinions on the nature, cause, and cure of women’s nervous conditions. The
+
+latter grounded firmly in decades of European and American praxis and precedent. In the West,
+
+the medical profession was populated with “enlightened” male physicians who opined on the
+
+origin of neurasthenia in women. Laurinda Dixon (1995) remarks that their opinions about
+
+“uterine hysteria and intellectual melancholy” in women marked female gender frail and in need
+
+of protection (9). Many medical practitioners advised against any intellectual activity for women
+
+who complained of nervous disorders and, instead, prescribed quiet and bedrest.
+
+       In 1890, Charlotte Perkins Gilman reflected on her own recent experience of protective
+
+custody after she lapsed into a state of melancholy following the birth of her child and, on advice
+
+of an eminent physician, was prescribed bedrest and cessation of intellectual endeavor. Gilman’s
+
+response to her physician’s prescriptive isolation was to write a protest framed by her short story
+
+“The Yellow Wallpaper” to comment on what she saw as the inequitable treatment of women
+
+living under socially constructed definitions of gender that kept women at home. The short story
+
+received the critical attention of women who, like the author, were resentful of a destiny imposed
+
+by biology and by medical practitioners who felt threatened by its explicit honesty.
+
+
+
+                                                 6
+       Gilman’s story takes place in an isolated colonial mansion where the heroine is enclosed
+
+and kept under strict scrutiny by her physician/husband who forbids her to write or engage any
+
+intellectual activity; frustrated and denied any creative outlet, she projects her resistance and
+
+persona onto the forms she perceives in the yellow wallpaper lining the dormant nursery room
+
+upstairs in the old house that her husband, against her will, decided they would use. In this thesis,
+
+I analyze the linguistic features of metaphor, metonymy, and narrative gap to show how Gilman
+
+represents social structures as physical structures of confinement that are experienced by women
+
+such as the protagonist in her story and how such enclosures extrapolate to include all women.
+
+       I argue that Gilman imbues her narrative with metaphorical references that carry feminist
+
+implications of resistance to the male authority represented in her story and, more, as a political
+
+commentary on the social institutions that impede women’s progress into the expressly public
+
+domain beyond their domestic enclosure. Gilman uses metonymy and narrative gap as literary
+
+tools in her narrative to add meaning through extended reference and to create dramatic tension.
+
+The goal of this thesis is to illuminate the corresponding connections between social institutions
+
+of marriage and domesticity and the physical structures portrayed by Gilman. In 1892, Gilman’s
+
+work was published in the New England Magazine where it met with disdain by literary critics
+
+and earned rebuke from one physician who, in a letter to the editor of The Boston Evening
+
+Transcript, wrote: “It is graphically told in a somewhat sensational style . . . holding the reader in
+
+morbid fascination, it certainly seems open to serious question if such literature should be
+
+permitted in print” (8 April 1892). In response, Gilman printed an explanation for writing the
+
+story in the feminist monthly magazine she edited and published, The Forerunner:
+
+       For many years I suffered from a severe and continuous nervous breakdown tending to
+
+       melancholia—and beyond. During about the third year of this trouble I went in devout
+
+
+
+                                                  7
+       faith . . . to a noted specialist in nervous diseases. This wise man put me to bed and
+
+       applied the rest cure. He concluded there was nothing much the matter with me and sent
+
+       me home with the solemn advice to “live as domestic a life as far as possible,” and to
+
+       “have but two hours intellectual life a day” and, “never to touch pen, brush or pencil
+
+       again as long as I lived” I went home and obeyed those directions . . . and came so near
+
+       the borderline of utter mental ruin that I could see over. (271)
+
+Following a long career as a writer and a tumultuous life underscored by hardship and poverty,
+
+Gilman finally met with success as a feminist intellectual who lectured for women’s rights and
+
+suffragist causes. As editor in chief of the Forerunner Monthly Magazine (1909-1916), Gilman
+
+espoused her views on the politics of gender to further progressive ideas about women’s social
+
+change and advancement. In addition to her work as a writer, Gilman’s decision to divorce her
+
+husband was a source of controversy and, after her death, Gilman’s fictional work fell into
+
+obscurity until other feminist writers revived it decades later. In later years, Gilman’s story
+
+received as much, if not more, attention from feminists as when she wrote it.
+
+       Within the literary canon of women’s writing, Gilman’s text has been reviewed by a
+
+diverse audience of readers with opposing political agendas alternately claiming her work as
+
+feminist, divergent, and/or psychologically revealing. The authors of The Madwoman in the
+
+Attic, Sandra Gilbert and Susan Gubar (1979) find feminist traditions of “enclosure and escape”
+
+in a “distinctively female literary tradition” (xi). In contrast, Conrad Shumaker (1985) argues
+
+that, although feminists present a cogent argument, “The Yellow Wallpaper transcends its
+
+author’s immediate intent,” illuminating the question of women’s role in nineteenth century
+
+imagination (589). Beate Schöpp-Schilling (1975) reviews Gilman’s story as a “specific kind of
+
+psychological realism” unappreciated for its contribution to the study of mental illness (284).
+
+
+
+                                                  8
+       Returning to a feminist agenda, Thomas Erskine and Connie Richards (1993) comment
+
+on the “critical interest” in Gilman’s text by the feminist press, noting connections between the
+
+protagonist’s descent into madness and the author’s analysis of her own breakdown represent
+
+“every woman’s plight in a culture defined by patriarchal condescension” (9). Since its initial
+
+review by the feminist press in 1973, subsequent analysis by feminists reframe such assumptions
+
+of power and cultural condescension to instead emphasize reformation of the literary canon.
+
+Annette Kolodny (1980) notes a generational carryover of literary influence among writers who
+
+are included in a shared canon of literary heritage, a literary discrimination that leads her to ask
+
+what happens when readers and writers find themselves “cut off and alien from that dominant
+
+tradition” (453). Similarly, Judith Fetterley (1986) takes issue with the entrapment of women in
+
+text-worlds written by men in which they are denied self-recognition and agency. Fetterley notes
+
+silencing the female other in male textuality precipitates a crisis of identity for women who see
+
+themselves imaged in such texts and contends the reason why women are subsumed and made
+
+silent is the anxiety over loss of power and control (182). Fetterley argues that women become
+
+characters in masculine texts that bear no relation to reality and, in losing the power to define
+
+themselves, “are forced to deny their own reality” (183). Patrocinio Schweikart and Elizabeth
+
+Flynn (1986) review the issue, writing, “For men, reading women’s stories means confronting
+
+themselves reflected in the eyes of women—they must endure the gaze of the other” (xix).
+
+       The shift of feminist argument reflects the struggle for the inclusion of texts that reify the
+
+voice of women outside the cultural definition of femininity. In deference to the argument,
+
+Erskine and Richards argue feminists reframe their arguments in sophisticated analogies that
+
+connect Gilman’s story of confinement to the confining silence of an exclusive literary canon
+
+that determines what “women may or should read” (11).
+
+
+
+                                                  9
+         Internecine conflict among feminist critics in their approach to, and critique of, literary
+
+texts has led to the reevaluation of prioritized agendas pursued by feminist scholars between
+
+1970-1980. In a critical review of previous feminist scholarship on “The Yellow Wallpaper,”
+
+Julie Bates Dock (1998) offers a fresh perspective on the “privilege of some kinds of scholarship
+
+over others” (53). Dock cites deliberate and omissive delinquencies in the verbatim transmission
+
+of the text that directly impact the way it is received and interpreted, arguing, “recent editions
+
+offer variations in the wording at several critical points” (53). Dock’s review agrees with the
+
+prioritized emphasis of feminist review that “struggle[d] to gain a foothold for women writers in
+
+literary studies . . . and often took precedence over textual criticism” (53). Dock cites the failure
+
+of feminist scholars to accurately reproduce the original text and offers her own reprint as the
+
+“most authoritative” due to her verbatim reiteration of the text in the 1892 edition of New
+
+England Magazine (55).
+
+         In accord with Dock, my analysis follows using text emphasized in the original version.
+
+The literary review of Gilman’s text in this qualitative analysis will be aided by exploring her use
+
+of linguistic features such as metaphor, metonymy, and narrative gap to offer new interpretations
+
+of her work. Zoltán Kövecses (2010) defines use of cognitive linguistic metaphor, i.e. conceptual
+
+metaphor, as “understanding one conceptual domain in terms of another conceptual domain”
+
+using the sort of cognitive mapping that occurs in transposing mental constructs (4). Underlying
+
+that action are assumptions of cognitive transference among congruent correspondents of each
+
+construct going from the abstract to the concrete. For instance, Kövecses uses the example LIFE
+
+IS A JOURNEY 1    to illustrate “coherently organized knowledge about journeys” that is relied on to
+
+understand the more abstract concept of life (4).
+
+         1
+           Kövecses suggests the use of small capital letters to indicate phrases that do not occur in a text under
+question, but conceptually underlie all the metaphorical expressions that proceed from it (4).
+
+                                                           10
+       Gilman uses metaphors to connect her story to themes of authority and confinement in
+
+the politics of institutions she finds oppressive to women, such as marriage and domesticity.
+
+Joanna Gavins (2007) introduces Text World Theory as a viable theory of constructing internal
+
+concepts, scripts, and schemas of experienced life situations that result in stored mental images
+
+or “text-worlds which enable us to conceptualize and understand every piece of language we
+
+encounter” (2). Gavins investigates the mental representations people use in reconstructing the
+
+fictional worlds of text they translate into relatable experiences by drawing upon knowledge
+
+stores of familiar events and situations. Gavins explains that people construct mental models of
+
+everyday existence using “holistic analogues” representing real-life situations by which people
+
+negotiate correspondence between internalized scripts and textual representations (4).
+
+       This thesis allows the complementary qualities of both theories to reexamine and
+
+reevaluate the text of “The Yellow Wallpaper” and elicit a more thorough understanding of the
+
+author’s meaning. As well, two other theories are applied to the analysis of Gilman’s text:
+
+Hypothetical World Theory for its contribution to how fictional worlds are formed and Feminist
+
+Theory for Gilman’s affiliation with the women’s activist movement and the way in which the
+
+nuances in the text incline toward that focus. Hypothetical World Theory (HWT) is presented by
+
+Marie-Laure Ryan and Alice Bell (2019), who propose fictional worlds as alternative realities in
+
+which “things could be different from what they are” (3) and as possible alternatives in a many
+
+world’s ontology. While the benefits HWT affords to the pliability of the text are positive, the
+
+exponential possibilities of “what if” that result are requisite to Gilman’s text as she transitions
+
+the inanimate qualities of the wallpaper into forces of opposition acting to restrain and imprison
+
+women. HWT is critical to the necessary engagement of readers in their complicity to compose
+
+fictional worlds and in the readers’ cooperation to supply missing narrative.
+
+
+
+                                                  11
+       Critical Feminist Literary Theory (CFLT), due to its overwhelming representation by a
+
+number of extraordinary scholars, needs to be defined more precisely and categorized according
+
+to the particular ideology governing its focus. For this thesis, I propose to focus on a liberal
+
+perspective represented by leading feminist scholars in the field of literary studies. Cora Kaplan
+
+(1996), Mary Maynard (2006), and Rosemarie Tong (2014) are but a few of the leading feminist
+
+theorists in this area who guide this review, adding to the interrogation of the text with insight
+
+from their ideological positions. The application of CFLT to the text under review is apparent
+
+when attempting to understand the unwritten tension resulting from the protagonist’s nervous
+
+condition and her lapse into insanity. CFLT aids in comprehending why the protagonist merges
+
+her identity with the phantoms fleeing the house and when incorporated into the textual analysis
+
+of Gilman’s script provides a fuller review and theoretical grounding for assumptions authorizing
+
+how the text is received and interpreted for this study.
+
+
+
+
+                                                 12
+                             CHAPTER 2. LINGUISTIC THEORIES
+
+                                             Metaphor
+
+       Recent scholarship and theories on metaphor reveal innovative ideas on cognitive
+
+function in constructing the comparative overlay of conceptual domains to obtain meaning. As a
+
+linguistic feature, metaphors are used in writing to suggest what is not directly addressed by the
+
+author by using corresponding attributes. Megan Henricks Stotts (2021) argues metaphors can be
+
+“recognized as indirect speech acts [and as] indirect directives that invite the hearer to engage in
+
+open-ended comparison” and as a “pragmatic phenomenon” that does “something fundamentally
+
+different” in the way it conveys information by emphasizing “what a speaker means . . . on a
+
+particular occasion, rather than what the words themselves mean” (114-17).
+
+       H. D. Adamson (2019) explains metaphor as a comparison “asking us to view one
+
+[concept] in terms of the other” so that “metaphors provide a mapping across two concepts, one
+
+of which contains features that are mapped onto corresponding features in the other concept”
+
+(54). David Ritchie (2013) argues metaphors work by “focusing on the attributes of the vehicle
+
+that are transferred to the topic” noting many attributes are “culturally associated with the
+
+vehicle” (28). Zoltán Kövecses (2010) proposes a definition of metaphor as a conceptual domain
+
+consisting of the source domain and the target domain with the “target domain [as] the domain
+
+we try to understand through the source domain” (4). Kövecses adds, “conceptual metaphors
+
+typically employ a more abstract concept as their target and a more concrete or physical concept
+
+as their source,” noting “there is a set of systematic correspondences between the source and the
+
+target in the sense that constituent conceptual elements of B correspond to the constituent
+
+elements of A.” Kövecses refers to these conceptual correspondences as mappings (7). Kövecses
+
+distinguishes between conceptual metaphor, defined as mentioned, and linguistic expression,
+
+
+
+                                                 13
+with the latter as one of context and concrete reference with words that “come from the language
+
+or terminology of the more concrete conceptual domain” (4). Conceptual metaphors differ from
+
+literary metaphors in their contextual approach to describing concrete phenomena. Nicholas
+
+Asher and Alex Lascarides (2001) argue indirect speech acts are a “matter of interpretation,”
+
+addressing the “communicative or semantic value of an utterance (192). The intentionality
+
+behind a speaker’s utterance defines how metaphors work to convey a writer’s or speaker’s
+
+meaning by alluding to something not directly addressed, as mentioned by Stotts. John Searle
+
+(1993) notes “whenever we talk about the metaphorical meaning of a word, expression, or
+
+sentence, we are talking about what a speaker might utter it to mean in a way that departs from
+
+what the word, expression, or sentence actually means. We are, therefore, talking about possible
+
+speaker’s intentions” (93). Searle (1979) posits intentionality as key to understanding metaphor
+
+and as an indirect speech act performed by the speaker to “communicate to the hearer more than
+
+he actually says by way of relying on their mutually shared background information . . . together
+
+with the general powers of rationality and inference on the part of the hearer” (32).
+
+       Searle defines indirect speech as “one illocutionary act performed indirectly by way of
+
+performing another” (31-32). Jerrold Sadock (1979) notes, “Indirect speech acts are the most
+
+important nonliteral figures of speech besides, of course, metaphor” resting their success on the
+
+clash between what is done, what is said, and what is intended (46). Kent Bach and Robert
+
+Harnish (1979) concur, offering extended explanation of indirect illocutionary acts as based on a
+
+system of “mutual contextual beliefs” shared between people of “that which is said, that which is
+
+done, and the intended relation between them” (66). In Gilman’s text, the physical structure of
+
+the house mirrors social institutions such as marriage and contractual obligation in corresponding
+
+attributes of enclosure and confinement to cognitively integrate the concepts.
+
+
+
+                                                14
+       Joseph Grady (1997) provides an explanation for what Gilman does in his article on
+
+metaphor by relating physical structures (buildings) to social structures (theories), explaining
+
+“The concern with experiential motivation is central to current cognitive linguistics. By showing
+
+that these domains [theories] and [buildings] are actually related via two cognitive links which
+
+do arise from experiential correlations we save an important generalization” (287). The
+
+“generalization” mentioned by Grady regards cognitive integration of “submappings” derived
+
+from individual experiential motivation (287). Grady proposes a “systematic” interdependence of
+
+parts that compose separate domains as an organized form of association motivated by
+
+experience (285). In other words, stored experience organizes association of characteristics
+
+recognized in separate domains and fosters cognitive integration. Again, Grady notes an
+
+important feature of metaphors are extensions that “encompass new concepts and elements
+
+which do not appear to be part of the conventional range of the metaphor” (287).
+
+       The emphasis on experiential correlation in Grady’s article indicates the importance of
+
+understanding metaphor through “mutual contextual beliefs” introduced by Bach and Harnish.
+
+Joanna Gavins (2007) explores ideas of a community’s culturally shared correlation of
+
+experience in her work on internalized scripts and schemas in Text World Theory. Gavins
+
+explains her theory this way “We construct mental representations, or text-worlds, which enable
+
+us to conceptualize and understand every piece of language we encounter. . . . Human cognition
+
+is structured around scripts: knowledge stores containing information about familiar types of
+
+events and situations” (2-3). Gavins’ Text World Theory provides an example of holistic mental
+
+models or analogues that act as mapped representations of human experience to enable
+
+“inferences and predictions” about the world (4). In her study, Gavins notes, “crucially, our
+
+ability to construct analogue mental models also enables us to experience events by proxy (4).
+
+
+
+                                                 15
+       Gavin’s explores how metaphor fits within Text World Theory in terms that are
+
+reminiscent of the theory proposed by Gilles Fauconnier and Mark Turner (2001). In reference to
+
+Fauconnier and Turner, Gavins notes, “The formulation of a coherent theory of conceptual
+
+integration . . . has been of enormous benefit to Text World Theory,” positing a “close
+
+relationship with contemporary theories” (148). Fauconnier and Turner describe the optimal
+
+conditions of “conceptual integration” and “conceptual blending” as necessary to mental
+
+cognition (18). In practice, their theory suggests that people fluidly merge or transpose their
+
+experience of the world to bring together “elements of different domains” in a systematic
+
+“compression” of events that condenses their interdependent experiences into a manageable
+
+portfolio or schematic rubric (30). The central argument by Fauconnier and Turner resolves “that
+
+conceptual integration interacts with cognitive activities like category assignment, analogy,
+
+metaphor, framing, [and] metonymy” with “blending as a basic cognitive operation” (59). The
+
+emphasis Gavins places on their theory of “blending” illustrates interactive mapping between
+
+domains and conceptual integration of corresponding attributes residing in each domain.
+
+Metonymy
+
+       Similar to metaphor, metonymy relies on cognitive function to integrate concepts into an
+
+analogical whole that relates a singular part to the encompassing whole represented by the part.
+
+George Lakoff and Mark Johnson (1980) describe metonymy as “using one entity to refer to
+
+another that is related to it” and synecdoche as “where the part stands for the whole” (35-36).
+
+Metaphor and metonymy while related, are significantly different; metaphor conceives meaning
+
+in terms of another unrelated concept to construe an original blending or integration of both
+
+concepts that convene to form understanding. Metonymy has a referential function allowing
+
+cognitive extension of the part described to the whole concept.
+
+
+
+                                                 16
+       Lakoff (1987) proposes an extraordinary theory of Idealized Cognitive Models (ICM)
+
+that structure a mental space as described by Fauconnier where one concept expands to provide
+
+relationship between two related parts (68). The idea of an ICM is helpful in understanding how
+
+metonymy works to expand and extend a conceptual gestalt in relating a part to a whole, as in
+
+this example by Kövecses: “We need a better glove at third base,” where glove stands for a better
+
+baseball player (171). H. D. Adamson (2019) describes a variation of metonymy called
+
+synecdoche that forms a “particular kind of conceptual metonymy often found in literature” (79).
+
+Adamson’s example of this form of metonymy uses the rhetoric of “All hands on deck” where
+
+“hands” stand for sailors and works as a representative part of the whole concept. Adamson notes
+
+synecdoche can also reverse the representational process to where the whole is represented by a
+
+specific part, as in the example, “the university has enacted a hiring freeze,” where university
+
+represents the administration of the university (79). The essential characteristic of metonymy
+
+requires referent attributes remain within one conceptual domain but, as René Dirven and Ralf
+
+Pörings (2009) note, “In metonymy we perspectivise [sic] the given experiential area as one
+
+domain matrix . . . incorporating ever more new elements” (89). The idea that one conceptual
+
+domain offers “new elements” is explored by Sandra Handl and Hans-Jörg Schmid (2011), who
+
+discuss the conventionality of metonymies. Handl and Schmid emphasize ways of “figurative
+
+thinking are so entrenched speakers are no longer aware of it” complemented by “the cognitive
+
+salience of attributes involved in the metonymical construal (85-86). Handl and Schmid frame
+
+their argument of conceptual theory as “conventional patterns of figurative thinking [that] shape
+
+not only the way we speak, but also how we conceptualize and experience the world and act
+
+(86). In their emphasis on conventionality, Handl and Schmid note, “A conceptual metonymy
+
+should be considered conventional if it is shared by the members of a speech community” and
+
+
+
+                                                17
+bears on “well-established ways of thinking” (88). In the narrative the theory of new elements
+
+applies to the characterization of “John,” whose role as the husband of the protagonist
+
+contextualizes him as a figure of authority in the larger construction of control.
+
+       Narrative Gaps. Lars Bernaerts (2013) introduces narrative gaps as that which require
+
+additional effort by readers to enable them to “see something else and make new narrative
+
+connections” (2). Bernaerts argues that “narratives come into being through interaction between
+
+minds and narrative gaps,” and writes, “there is profound awareness among theorists . . . [that]
+
+the construction and interpretation of narratives as coherent wholes . . . require gaps, empty
+
+spaces, and hidden information” (3). Bernaerts notes that literary scholars find in the
+
+construction and interpretation of narrative that gaps are necessary to the dynamics between
+
+reader and author to frame the text (5). In his introduction, Bernaerts argues narrative gaps
+
+follow from what he terms a “cognitivist approach” that focuses on the “mental operations
+
+required to comprehend narratives” (8). Bernaerts’s approach separates from other theories of
+
+mind such as hermeneutical or structuralist in that the cognitivist approach focuses on
+
+“the gap-filling process in both the brain . . . and the mind” (8), whereas the hermeneutic tries to
+
+integrate the objective and subjective processing of the text (4). In contrast, the structuralist
+
+approach circumvents subjective reading to instead emphasize the “distribution and structure of
+
+textual gaps” (6). While Bernaerts prefers cognitivist theories on how readers comprehend text
+
+and narrative, there are other theories that also contribute to the literary competence of the
+
+reader. However, for brevity, this paper will focus solely on cognitive approaches to textual gaps
+
+found in studies such as those by Richard Gerrig (2010). Gerrig defines narrative gap as the
+
+“distinction between story, what is told and discourse, the manner in which it is told” (19).
+
+Gerrig asserts “discourse opens a gap between what narration reveals and the underlying story,”
+
+
+
+                                                  18
+and he endorses an empirical position called “memory-based processing” (emphasis in original)
+
+to suggest readers recruit information that “resonates” in their memories, interacting
+
+“idiosyncratically” with the text (20-23). Gerrig’s theory of memory-based inferential processing
+
+departs from Gavin’s “bounded” theory of schema and argues for the adaptability of individual
+
+memory (22). Gerrig writes, “Such structures are . . . bounded, static and reasonably similar
+
+across readers” advocating instead for the fluidity of memory-based processing to show how the
+
+“elements of complex texts resonate through each reader’s memory to yield inferences” (24).
+
+       The contrast in the respective theories of Gerrig and Gavin lies in how readers use
+
+memory, experience, and schemas to encode inferences “supported by information that is readily
+
+available from each reader’s memory” (22). While the memory-based approach allows readers to
+
+be more fluid and selective in determining which samples of memory are used, the approach of
+
+encoded schemas argued by Gavins tends to limit or restrict how readers react and interpret text.
+
+In an interesting juxtaposition to the foregoing, H. Porter Abbott (2013) provides a different
+
+understanding of narrative gaps, distinguishing between gaps that can be filled and the more
+
+predominant type of narrative gap that cannot be filled. Abbott refers to textual gaps as a “guided
+
+process in which we are not only cued to fill gaps in a certain way but also cued to leave other
+
+gaps unfilled” (109). Abbott predicates his argument on the work of Wolfgang Iser (1974),
+
+whose ideas on textual indeterminacy posited gaps as, “the very points at which the reader can
+
+enter into the text . . . to configure the meaning of what he is reading” (40). Iser wrote narrative
+
+gaps were essential components of any text and, further, no text could be known in its entirety
+
+(40). In later work, Iser proposed gaps can be filled “in many different ways . . . and will always
+
+remain open to some extent with one text . . . capable of several different realizations”
+
+(1980:275).
+
+
+
+                                                 19
+       Iser argued “A literary text must therefore be conceived in such a way [that] it will
+
+engage the readers’ imagination in the task of working things out for himself” (275). Meir
+
+Sternberg (1978) concurs, writing, “every literary work opens a number of gaps that have to be
+
+filled in by the reader” (50). However, Abbott argues Iser’s notion of gaps as “key points of
+
+entry” fails in the way gaps “riddle narrative at all points” (emphasis in original), leading to how
+
+gaps play a “critical part in narrative success” (109). In a novel blending of theories, Abbott
+
+invokes the imaginative power of Ernest Hemingway’s “principle of the iceberg” to emphasize
+
+“the art of leaving things out in such a way that they are still present” stressing the necessity of
+
+the readers’ own “requisite depth of experience” (110). Abbott points to “egregious gaps” in
+
+narrative requiring “immense inferential energy” and cites the contractual agreement among
+
+authors and readers in which each “knows the rules of narrative” (110). The “contractual
+
+agreement” noted by Abbott reflects Gilman’s dependence on the cooperation of readers to infer
+
+meaning from gaps of unfilled narrative left deliberately open.
+
+
+
+
+                                                  20
+                      CHAPTER 3. HYPOTHETICAL WORLD THEORY
+
+       Hypothetical World Theory (HWT) pertains to the “what if” possibilities in “The Yellow
+
+Wallpaper.” The text presents numerous instances in which brief paragraphs and abrupt endings
+
+open numerous possibilities of what could have taken place—if. An example of this is found in
+
+the text when the narrator confesses, “John does not know how much I really suffer. He knows
+
+there is no reason to suffer, and that satisfies him” (original emphasis 14). This segues into a
+
+discussion of possible worlds theory in which reality is imagined in alternate forms by the
+
+literary complicity of readers who bring their own experiential knowledge into the text. HWT
+
+posits that readers have mental reserves of scripted scenes and flexible capacity to fill in the
+
+missing narrative of a text. To put this into context, Raymond Bradley and Norman Swartz
+
+(1979) propose people engage in counterfactual supposition to wonder “about things that might
+
+have happened” (emphasis in original) and ask, “what if things had been thus?” (2).
+
+       Bradley and Swartz argue that such “actuality is . . . surrounded by an infinite realm of
+
+possibilities . . . by an infinity of other possible worlds,” and they present a plausible theory by
+
+which to investigate the fiction of Charlotte Perkins Gilman (2). Jerome Bruner (1986) posits a
+
+psycholinguistic approach to understanding how readers process language to derive multiple
+
+meanings. Bruner explains how readers receive, understand, and process text, using various
+
+subjective methods of decoding such as genre to categorically inform assignment. No “fixed”
+
+method of interpretation impacts how the text is read and understood to replicate the fictional
+
+world and its inherent possibilities in mirrored distortions of reality. Literary theorist Lubomír
+
+Doležel (1998) addresses what he considers to be the incompleteness of fictional worlds,
+
+remarking that “to construct a complete possible world would require writing a text of infinite
+
+length” (794-95).
+
+
+
+                                                  21
+        Doležel posits this argument to justify the ontological nature of fictional worlds. The text
+
+world created contains numerous possibilities of development that could exceed the author’s
+
+intentions when engaged by the reader. Doležel explains this as “literary poesies” that transforms
+
+writing into what did not exist before; “the world-constructing power of the fictional text implies
+
+that the text is prior to the world, that it calls into existence and determines its structure” (790).
+
+As Doležel claims, “Fictional texts . . . construct sovereign fictional worlds which satisfy the
+
+human need for imaginative expanse, emotional excitement, and aesthetic pleasure” (792). HWT
+
+serves the purpose of providing a theoretical basis for constructing speculative scenarios of
+
+“what if” inhered in the narrative gaps of unmediated text created by Gilman. While discussion
+
+of narrative gaps will be pursued later, it is relevant here as a means to explain how HWT works
+
+to fill such gaps by using the power of individual cognitive processing to provide those
+
+possibilities of what might have happened.
+
+        Abbott argues the internal dynamics of fictional worlds require “the reader’s creative
+
+engagement with the text” in order to configure the meaning of the text (108). The individual
+
+authority of the reader to employ HWT allows them to establish relevancy, construct meaning,
+
+and bridge textual omissions. The critical engagement of HWT establishes precedent for theories
+
+of mind correlating cognitive models with internal scripts, subjective experience, and conceptual
+
+integration networks that impose on the capacity of the reader to construct meaning. HWT
+
+remains essential to fiction in general and to the fiction of “The Yellow Wallpaper” in particular
+
+to provide a necessary means of interpretation. While much of HWT results from Kantian
+
+(1908) philosophical speculation on the arcane and esoteric formulations of the mind with regard
+
+to space and time, recent reviews reevaluate the operation of possible worlds in relation to the
+
+actual world or the present temporal reality.
+
+
+
+                                                   22
+        Marie-Laure Ryan and Alice Bell (2019) advance the proposition that “In a many-worlds
+
+ontology, fictional texts can be associated with worlds, these worlds can be imagined on the
+
+basis of all the propositions presented as true by the text, and it is possible to distinguish true
+
+statements about the members of particular fictional worlds” (3). Ryan and Bell hypothesize
+
+fictional worlds where it is possible to distinguish truth to facilitate possibilities of an alethic
+
+system, noting not only could things be different from what they are in reality but that things
+
+“could be different in many different ways,” and propose that readers are enabled in a many-
+
+worlds ontology to evaluate statements as either true or false by being given the option of more
+
+than one possible world and outcome (3).
+
+        Ryan posits an explicit difference between fictional worlds limited by relationship to the
+
+text and storyworlds that encompass “totalities [of] space, time and individuated existents that
+
+undergo transformations as the result of events” (63). Ryan’s characterization of storyworlds as
+
+“networks of relations” concurs with David Herman’s (2009) conception of “global mental
+
+representations enabling interpreters to frame inferences about situations, characters, and
+
+occurrences explicitly mentioned or implied by a narrative text” (109). Interestingly, Herman
+
+categorizes features other than text as “expressive resources,” adding emphasis to the text of
+
+storyworlds in the disposition of space, section breaks, and typographic features (107). Jonathon
+
+Evans, David Over, and Simon Handley (2003) discuss hypothetical thinking as a “uniquely
+
+human faculty that is a distinguishing characteristic of our intelligence” (3). Evans, Over, and
+
+Handley argue that hypothetical thinking comprises implicit “background beliefs and knowledge
+
+. . . reflecting the learned history of the individual” that links to “language and reflective
+
+consciousness” as a basis for reasoning (3).
+
+
+
+
+                                                   23
+        Echoing that theory, Bo Pettersson (2016) cites the ability for abstract thought as the
+
+single most novel aspect of human cognition and “literary world-making” (9). Pettersson notes
+
+the faculty of a cultural community or shared imagination bridging with individual imagination
+
+and perceptions of reality to build a shared concept of meaning (28). Pettersson concludes “The
+
+study of shared imagination and particularly literary imagination can provide tools for analyzing
+
+. . . imaginative uses of literary representation” (40). Finally, Ruth Ronen (1994) examines the
+
+representation of possible worlds in her study of a “heterogeneous paradigm that allows various
+
+conceptions for possible modes of existence” and the commitment to an “alternate ontology”
+
+(21). Ronen discusses the theoretic position pertaining to possible worlds that “non-actuality”
+
+does not preclude . . . one’s ability to make propositions” and “possible worlds can account for
+
+the links between the actual world and other worlds” (26). In describing the relative “autonomy”
+
+of possible worlds, Ronen argues other worlds comprise not so much an alternate version of
+
+reality as complete worlds with their own systematic set of possibilities characterized by
+
+intentionality (28). Ronen’s assessment of possible worlds tallies well with what readers
+
+encounter in fictional texts as the resulting gestalt of inference, intention, and complicity with the
+
+author in its creation.
+
+
+
+
+                                                 24
+                                 CHAPTER 4. FEMINIST THEORY
+
+        Critical Feminist Literary Theory (CFLT) has developed over time beginning with the
+
+work of Mary Ellmann (1968), Kate Millitt (1970), and Germaine Greer (1971). Since then, there
+
+has been a plethora of feminist commentary on women. Feminists have not been sparing in their
+
+critique of literature, authors, and/or the impact of gender on texts and their interpretation.
+
+        In this section, I examine a small sample of feminist literary critique as it may apply to
+
+the text of “The Yellow Wallpaper” to expose the underlying bias of review brought to this
+
+study. Feminist review reveals the inequity of social and marital relations arising from ingrained
+
+ideas on gender and ascribed notions of women’s fragility in the critical assignment of authority
+
+and autonomy. In Gilman’s text, social structures and institutions predicate subordinated
+
+assumptions about women’s place in society that authorize a discursive feminist review. The
+
+feminist commenters reviewed have reevaluated the political, social, and historical context of
+
+women’s writing to critique the boundaries between the text and the world, and the text and the
+
+reader. The application of the term feminist, irrespective of ideology, merits a review of who and
+
+where the critic, the reader, and the writer are located politically, and influences interpretation.
+
+Annette Kolodny (1996) reiterates an important observation in her analysis of feminist review:
+
+“the feminist must oppose the painfully obvious truism that what is attended to in a literary work,
+
+and hence what is reported about it, is often determined not so much by the work itself as by the
+
+critical technique or aesthetic criteria through which it is filtered” (250). Kolodny acknowledges
+
+the limitations adhering to a feminist review, writing, “all a feminist is asserting, then, is her own
+
+right to liberate new . . .significances . . .and . . . her right to choose which features of a text she
+
+takes as relevant” (250).
+
+
+
+
+                                                   25
+       Kolodny’s emphasis on the individuality of reading endorses the critical application of a
+
+feminist ideology that supports many reviews. Charlotte Perkins Gilman authored her short story
+
+on a wave of feminist sentiment that began, according to Estelle Freedman (2002), in 1848.
+
+Freedman reviews the history of feminist politicization taking place in Europe and the United
+
+States with new publications in France, La Voix des Femmes representing women’s voice, and
+
+feminist conventions such as the one held in July of 1848 in Seneca Falls, New York. Gilman
+
+was among those who wrote and published for a female readership, and she took an active part in
+
+legislating for women’s political autonomy. Accordingly, it is fitting to apply a feminist theory
+
+of review to her work with its allusions to women’s physical and ideological entrapment within
+
+socialized conventions of marriage and authority. Certainly, there has been no paucity of
+
+feminist reaction in the decades since the first publication appeared, followed by demands for
+
+suffrage, education, and property rights. However, Freedman notes it was not until the Industrial
+
+Revolution (1760-1840) widened the gap in wage earnings between men and women and a
+
+radical reevaluation of economic opportunity created hierarchies of exclusion that women and
+
+other non-privileged classes became dependent (46). Freedman’s description of the resulting
+
+economic dependence of women may have contributed to their experience of anxiety.
+
+       In her review, Freedman points out that the same conditions that engendered separate
+
+spheres also gave women opportunities of expression through writing and organization (46). In
+
+deference to the debate over superfluous pluralism, I propose to focus literary analysis of the text
+
+in this study through a liberal or humanist framework guided by Mary Maynard’s (2006)
+
+definition of liberal feminism as “individual rights . . . equality, justice, and equal opportunities”
+
+as ways of achieving gender equity through political and legal reform (260). In that respect, the
+
+feminists quoted follow a liberal ideological approach to issues of gender.
+
+
+
+                                                  26
+       Cora Kaplan (1996) makes a circuitous argument in her discussion of gender and genre,
+
+but directly addresses the question of women as writers: “the mid-century saw the development
+
+of a liberal ‘separate but equal’ argument which sometimes tangled with, sometimes included the
+
+definition of women’s sphere and the development of the cult of true womanhood” (181). Kaplan
+
+writes, “All the major women writers were both subject to and sensitive about charges of
+
+coarseness. Sexual impurity was the unforgivable sin, the social lever through which Victorian
+
+culture controlled its females” (164). Kaplan, in her address of women as writers in the
+
+nineteenth century, notes the entry of literate women into the public discourse endangered
+
+“taboos” of male prerogative and prejudice (164). In similar fashion, Josephine Donavan (2012)
+
+examines the writing of Charlotte Perkins Gilman, recognizing her as being among the first wave
+
+of cultural feminists with publications on the plight of women and social institutions. Donavan
+
+notes that “Gilman’s The Home remains one of the most clearly articulated pieces of radical
+
+feminist theory on the domestic sphere produced during the first wave of feminist thought” (48).
+
+       Rosemarie Tong (2014) presents a comprehensive review on the diversity of feminist
+
+thinking, beginning with the liberal approach to social reformation. Tong argues the “classic
+
+formulation” of liberal feminism began in the women’s suffrage movement and in women’s
+
+groups such as the National Organization of Women. Tong recognizes organizations such as
+
+these as responsible for rhetoric rooting female subordination in a “set of customary and legal
+
+constraints that block women’s entrance to and success in the so-called public world” (2).
+
+Tong writes “to the extent that society holds the false belief that women are, by nature, less
+
+intellectually and physically capable than men, it tends to discriminate against women in the
+
+academy, the forum, and marketplace” (2). Tong argues liberal ideology requires the rules of the
+
+game to be fair for everyone and the distribution of goods and services inclusive of those who
+
+
+
+                                                 27
+are systemically disadvantaged. Tong states, “women should have as much chance to succeed in
+
+the public realm as men do” (9). In advance of Rosemarie Tong, Gilman expressed her feminist
+
+attitude in 1903 in her book, The Home: Its Work and Influence:
+
+       We have always assumed that the woman could do most by staying at home. Is this so?
+
+       Can we prove it? Why is that which is so palpably false of a man is held to be true of a
+
+       woman? The home in its arrested state of development, does not properly fulfill its own
+
+       essential functions—much less promote the social ones. . . . Among the splendid
+
+       activities of our age it lingers on. . . . It hinders, by keeping woman a social idiot. (314).
+
+Due to extensive divisions within the broad overview of feminist theory, it is useful to have an
+
+operative definition for the particular focus used in this study. Mary Maynard (1995) offers her
+
+opinion, writing, “Liberal feminism is depicted as focusing on individual rights and on concepts
+
+of equality, justice and equal opportunities, where legal and social policy changes are seen as
+
+tools for engineering women’s equality with men” (260). Gilman’s fictional tale takes on new
+
+facets of meaning when reviewed through the lens of liberal feminist ideology, revealing new
+
+perspectives on women’s marital experience. Gilman’s subjective experience of marriage and
+
+male authority may resonate with some women while others reject it; however, as leading
+
+feminist authors and critics such as, Beate Schöpp-Schilling (1975), Susan Wendell (1987),
+
+Mary Eagleton (1986), Cheris Kramarae (1992), Susan Marilley (1996), Estelle Freedman
+
+(2002), and Rosemarie Tong (2013) have noted, the evidence suggests women are vulnerable to
+
+and mindful of inequitable social and economic relationships. Liberal feminism stresses
+
+rationality as a fundamental human attribute, and, as Alison Jaggar (1983) argues, “Liberal
+
+political theory ground[s] on the conception of human beings as essentially rational agents.” (28)
+
+an understanding that informs proponents of liberal feminism.
+
+
+
+                                                 28
+       In Gilman’s narrative, it is precisely this rationality that is called into question as the
+
+protagonist slowly loses her grip on reality and succumbs to the seductive lure of madness that
+
+eventually mirrors back to her in her own image as the woman caught behind the yellow
+
+wallpaper. Questions of rationality underscore more than the idea of madness that afflicts the
+
+protagonist; rational actions and thoughts reflect the criteria held by society and the medical
+
+community in their assessment and treatment of women’s nervous conditions and in diagnoses of
+
+hysteria. It can be no coincidence that Gilman’s treatment for “nervous exhaustion” by a
+
+respected member of the medical community resulted in her writing a self-explicatory tale of
+
+resentment and resistance to ideas about women’s physical and mental capacities. Feminist
+
+women’s groups responded by pointing to the underlying inequity incurred in social institutions
+
+such as marriage, domesticity, and education that restrained women’s progress into the public
+
+domain of discourse and commerce. In Gilman’s fiction, it is these circumstances that compel the
+
+protagonist to seek relief when her physician/husband John threatens to send her to a specialist
+
+“who is just like John and my brother, only more so!” (19). Historian Mark Micale (1995) notes
+
+hysteria represented, “everything men found irritating or irascible, mysterious or unmanageable”
+
+in women, mirroring their “irrational, capricious and unpredictable nature” (68). Peter Brooks
+
+(1993) concurs, writing, “Hysteria . . . was conceived to be a female malady . . . held to be the
+
+result of a wandering womb whose displacement had to be corrected to effect a cure” (224).
+
+       Edith Gomberg and Violet Franks (1979) argue “physicians that treated hysterics were
+
+ambivalent at best, but usually caustic and punitive. Because women did not fulfill their female
+
+roles, they threatened physicians as professionals and as men” (361). Elaine Showalter (2020)
+
+revisits the history of research into women’s diagnoses of hysteria, noting, “nineteenth-century
+
+physicians generally believed that hysterical women were skillful performers, faking their
+
+
+
+                                                  29
+symptoms in order to get attention and special treatment” (29). The discursive canon of literature
+
+on what Beret Strong (1998) refers to as la condition feminine has drawn comment far too broad
+
+for this venue; however, as Gomberg and Franks note, Gilman provides “the first description of
+
+the relationship between the psychiatrist and madness” and on how “the paternalistic collusion
+
+between the psychiatrist and the physician—husband destroyed the protagonist” (360).
+
+
+
+
+                                                30
+                                        CHAPTER 5. ANALYSIS
+
+        Gilman, a noted feminist, and leading activist for women’s rights, wrote a piece of fiction
+
+that paralleled her experience as a married woman who received medical advice for melancholy.
+
+The result of her consultation proved disastrous for Gilman due to the dismissal of her complaint
+
+by a physician who diagnosed women’s complaints as symptomatic of hysteria. Gilman’s fiction
+
+reflects her resistance to that diagnosis, and she styles her central character as her personal avatar
+
+with a focus on the relationship between her unnamed narrator and her husband, John. Gilman
+
+describes John as a respected physician with an authoritative presence in the home who decides
+
+to dismiss his wife’s ailment subjectively and professionally. The other characters in the text
+
+remain peripheral with exception of the female phantoms who emerge from behind the wallpaper
+
+to seek freedom from their metaphorical prison. Importantly, the plot centers on the protagonist’s
+
+isolation, the relational inequity she experiences, the social stigmatization of women’s nervous
+
+disorders as hysteria, and the protagonist’s subtle transition to insanity as a last means of escape.
+
+        A recurrent theme of madness reiterates throughout with emphasis on the wallpaper as an
+
+instigating agent of opposition to women restrained by its animus. The main ideas supported by
+
+the text revolve around women’s subjugation to social institutions of authority such as marriage
+
+and the contractual obligations those institutions impose on women, the diminution of women as
+
+rational beings, and representation of physical structures such as the home and/or the wallpaper
+
+as metaphorical enclosures that mimic the authority of those social institutions. The narrative’s
+
+structural elements are metaphorical and/or metonymical, aided by narrative gaps and omissions
+
+of silence that disconcert the readers’ expectation of fulfillment and open alternative possibilities
+
+of reality.
+
+
+
+
+                                                 31
+       It is in Gilman’s critical decision to create gaps of unnarrated possibility that “alethic
+
+modalities” draw from the experiential perspective brought by readers (Ryan 239). Gilman’s
+
+visual metaphors image feminist structures that traditionally are assigned to represent the
+
+feminine sphere such as the home, gardens, and children. The structural aspect of her writing
+
+takes form in the nursery, where her protagonist discovers within its barred enclosure a means of
+
+escape from the husband’s authority. Hypothetical World Theory reveals the inherent
+
+possibilities of alternative realities residually dormant in Gilman’s text like visual afterimages
+
+readers can use to expand on what is missing in the text to obtain closure and fulfill expectations.
+
+The fictional world created in text borders between sanity and madness, merging the actual
+
+world with the possible world of fiction. Gilman’s primary structural component of the house
+
+contains a nursery room lined with a molting yellow wallpaper whose:
+
+        sprawling flamboyant pattern commit every artistic sin. It is dull enough to confuse the
+
+       eye in following, pronounced enough to constantly irritate and provoke study, and when
+
+       you follow the lame uncertain curves for a little distance, they commit suicide—plunge
+
+       off at outrageous angles, destroy themselves in unheard of contradictions. (13)
+
+Gilman’s description of the yellow wallpaper in her story, animated by the imagination of her
+
+protagonist, assumes form and substance to become a physical entity that stalks its inhabitants.
+
+Readers assume the possibility of the supernatural to engage the gothic reality of an inanimate
+
+object that “creeps all over the house . . . hovering in the dining room, skulking in the parlor, and
+
+hiding in the hall” (28-29). The elastic credulity of the readers’ imagination is tested when
+
+Gilman positions her protagonist, who is enmeshed in a burgeoning madness, to subjectify the
+
+forms emerging out of the wallpaper into angry women fleeing their imprisonment.
+
+
+
+
+                                                 32
+       Gilman verifies the growing apprehension of her readers that her avatar/protagonist
+
+identifies with them, writing, “I really have discovered something at last . . . I have finally found
+
+out. The front pattern really does move—and no wonder! The woman behind shakes it!” (30). In
+
+Gilman’s possible world, the thin divide between the animate and inanimate converge to form an
+
+ontological fiction that by necessity is marked by what Doležel calls “irrecoverable lacunae”
+
+(795). Gilman applies theories of possibility to her incomplete construction of fictional worlds to
+
+form an alethic alternative developed in complicity with the reader and the text and writes her
+
+characters into existence much as the fiction of the wallpaper writes its emerging phantoms into
+
+the mind of the protagonist. What Samuel Taylor Coleridge (1847) describes as a poetic state of
+
+mind “sufficient to procure for these shadows of imagination that willing suspension of disbelief
+
+for the moment” assumes central importance as a cognitive theory of mind aiding assimilation of
+
+the supernatural world and creating access to multiple levels of processing text (2). The idea
+
+behind this theory rests on the way readers assign meaning to a text using cognitive processes.
+
+       Gilman accomplishes such distortions by assigning animated qualities of form, function,
+
+and purpose to the wallpaper in such a way that it becomes a living entity in and of itself to mime
+
+the controlling enclosure of the domestic sphere. The possibility of women held prisoner within
+
+its enclosure adds to conceiving it in malignant terms. Indeed, as Gilman writes, “It is the
+
+strangest yellow, that wallpaper! It makes me think of all the yellow things I ever saw—not
+
+beautiful ones like yellow buttercups, but old foul, bad yellow things” (28). In the narrative, the
+
+yellow wallpaper becomes an omnipresent being who commands the attention of the woman
+
+forced to remain in its presence by a husband who commands her obedience. The reality of the
+
+wallpaper as a changing, ever present influence can be seen in this excerpt by Gilman, “This
+
+paper looks to me as if it knew what a vicious influence it had! I never saw so much expression
+
+
+
+                                                 33
+in an inanimate thing before” (16). The latitude of literary interpretation allowed by cognitive
+
+theories of mind expands the text beyond what may have been the author’s intention, allowing
+
+readers to subjectively rewrite the text using scripts of experiential memory. The flexibility of
+
+the subjective reading experience allows readers to imagine multiple outcomes. The main points
+
+taken are that fictional worlds contain the seeds of their own germination into relevant worlds of
+
+meaning for different readers who bring into the text their own priorities; and, as Bruner argues,
+
+the focus on psycholinguistic theory depends on the cognitive apprehension of language as
+
+“speech acts” that inflect meaning and reference (5). Fauconnier and Turner propose an
+
+interesting argument, claiming the capacity for humanities imagination furthers the social
+
+evolution of the species and allows individuals, “greater power of conception and choice” (217).
+
+       Gilman assigns that power to the reader, who needs to decide the credible possibility or
+
+veracity of the mind of a madwoman who sees forms within the wallpaper, forms that emerge to
+
+creep into the shadows of nearby “blackberry vines” (31). In a hypothetical world, such things
+
+could happen without the cognitive dissonance that accompanies perception in the actual world,
+
+that allows extraordinary experiences to happen. Gilman’s text is extraordinary as she describes
+
+the woman who exits from the wallpaper, “I have watched her sometimes away off in the open
+
+country, creeping as fast as a cloud shadow in a high wind” (31). The hysterical madness of the
+
+protagonist resonates throughout the text creating an atmosphere of heightened tension,
+
+       Hurrah! This is the last day, but it is enough. Jennie wanted to sleep with me—the sly
+
+       thing! I told her I should undoubtedly rest better for a night alone. That was clever, for
+
+       really I wasn’t alone a bit! As soon as it was moonlight and that poor thing began to
+
+       shake the pattern, I got up and ran to help her. I pulled and she shook, I shook and she
+
+       pulled, and before morning we had peeled off yards of that paper. (32)
+
+
+
+                                                 34
+       In the story, the protagonist finds relief by peeling off the wallpaper to release the woman
+
+held inside by its stultifying influence and pungent odor. The madness induced by the wallpaper
+
+on the imagination of the protagonist allows her a way to slip past sanity and past the barred
+
+windows of the nursery room to escape an intolerable situation. At the time Gilman wrote her
+
+story, women were still assessed as fragile in comparison to the robust rationality of men that
+
+entitled them access to the public domain; indeed, Gilman’s protagonist is kept under scrutiny
+
+and protective custody within the prison of her home. It is the character of imprisonment that
+
+influences the events that follow, causing Gilman’s protagonist to write, “He is very careful and
+
+loving, and hardly lets me stir without special direction” (12). Gilman’s text reflects conditions
+
+under which some women were restrained to hide the nervous conditions that resulted in their
+
+medical diagnoses of hysteria. Indeed, as Mitchel Weir (1877) would later write, “For some
+
+years I have been using . . . methods of renewing the vitality of feeble people by a combination
+
+of entire rest and of excessive feeding. The cases thus treated have been chiefly women of the
+
+class known to every physician, nervous women” (9).
+
+       Weir’s critique and opinion was still quite common among physicians in the late
+
+nineteenth century and, at the time Gilman was writing, were guided by years of medical
+
+tradition reflecting, as Laurinda Dixon (1995) notes, “ancient medical belief[s] in the innate
+
+instability of the female sex . . .reinforcing traditional notions concerning women’s societal roles
+
+and intellectual capabilities” (3). In the narrative, Gilman portrays her protagonist as considered
+
+vulnerable to whimsical fancies. “John has cautioned me not to give way to fancy in the least. He
+
+says that with my imaginative power and habit of story-making, a nervous weakness like mine is
+
+sure to lead to all manner of excited fancies” (16). The portrayal substantiates Dixon’s notion of
+
+“the fragile . . . . housebound woman [who] has always been a reflection more of male wish
+
+
+
+                                                 35
+fulfillment than of female reality” (3). In “The Yellow Wallpaper,” hysteria parades as a
+
+madness that verges on obliteration as the heroine seeks escape by merging with the women
+
+exiting the wallpaper. They are hysterical, aggravated by the grief of their imprisonment; they
+
+creep into the margins of oblivion aided by a hysterical heroine who remains imprisoned behind
+
+the barred windows of the nursery room itself held captive by the yellow wallpaper. Gilman’s
+
+tale of madness and female hysteria is central to a feminist reading, understanding, and
+
+perception of hysteria as a “performance,” that discredits its legitimacy and reduces its victim to
+
+an unreliable actor.
+
+       Gilman is aware of this when she writes, “If a physician of high standing, and one’s own
+
+husband, assures friends and relatives that there is really nothing the matter with one but
+
+temporary nervous depression—a slight hysterical tendency—what is one to do?” (10). Gilman’s
+
+treatment of hysteria locates the logic of its devastating consequences in the incipient madness
+
+that overwhelms the protagonist, who retreats from her husband’s society and legitimates her
+
+escape from his authority. If Showalter is correct, then Gilman writes hysteria as a performative
+
+quest for attention. Indeed, DSM-III (1980) states the following:
+
+       The essential feature is a Personality Disorder in which there are overly dramatic,
+
+       reactive, and intensely expressed behavior characteristic disturbances in interpersonal
+
+       relationships. Individuals with this disorder are lively and dramatic and are always
+
+       drawing attention to themselves. Minor stimuli give rise to emotional excitability, such as
+
+       irrational, angry outbursts or tantrums. Individuals with this disorder crave novelty,
+
+       stimulation, and excitement and quickly become bored with normal routines. Flights into
+
+       romantic fantasy are common; in both sexes overt behavior often is a caricature of
+
+       femininity. In other classifications this category is termed Hysterical Personality. (314)
+
+
+
+                                                 36
+        In a successful contrast of masculine logic and female sensitivity, the heroine declares,
+
+“there is something strange about the house—I can feel it. I even said so to John one moonlit
+
+evening, but he said what I felt was a draught, and shut the window” (11, original emphasis).
+
+Gilman’s adept characterization of John’s dismissive attitude towards his wife’s nervous
+
+condition leads to his infantilization of her and shows in his condescension the passage, “‘What
+
+is it, little girl? Don’t go walking about like that—you’ll get cold.’ . . . ‘Bless her little heart!’
+
+said he with a big hug, ‘she shall be as sick as she pleases!’” (23-24). As Gilman’s protagonist
+
+slips deeper into her psychotic diagnosis, she remarks, “Life is so much more exciting now than
+
+it used to be. You see I have something to look forward to, to watch. I really do eat better, and I
+
+am more quiet than I was” (27). The “overactive imagination” Gilman assigns her victim
+
+becomes her salvation even as it becomes a resource she can use in her sphere of domestic
+
+enclosure (15).
+
+        Hysteria, when reviewed through feminist ideology, reconfigures itself as a feminine
+
+resource predicating on established ideas about women as weak and susceptible and provides
+
+women with a medically authenticated excuse to escape. The feminist perspective of hysteria is
+
+fractured, at once prescriptive and performative, and when read through the feminist lens it
+
+becomes a condemnation and a resource of survival. It is this contradictory nature of hysteria that
+
+while considered by the DSM-III to be a “feminine characteristic” can also affect men. Feminist
+
+perspective does not exclude the consideration of men in its calculus of equity and when applied
+
+to Gilman’s fiction can be used to review the role of the stalwart, rational physician assigned to
+
+John as equally susceptible to hysteria. If the theory of hypothetical worlds and alternate
+
+possibilities can be trusted to interpret or provide other explanations for what occurs within
+
+fictional worlds such as Gilman’s, then it is possible to suggest that John, too, is affected by the
+
+
+
+                                                   37
+pervasive influence of the yellow wallpaper. Indeed, as Gilman writes, “I have watched John
+
+when he did not know I was looking, and come into the room suddenly on the most innocent
+
+excuses, and I’ve caught him several times looking at the paper!” (27). Gilman casts John’s
+
+character as impervious to irrational actions or thoughts, but in his reaction to his wife’s slide
+
+into madness there is the possibility that John, too, becomes hysterical when he sees his wife
+
+crawling around the floor of the nursery room:
+
+       He stopped short by the door. “What is the matter?” he cried, “For God’s sake, what are
+
+       you doing!” I kept on creeping just the same, but I looked at him over my shoulder. “I’ve
+
+       got out at last,” said I, “in spite of you and Jane! And I’ve pulled off most of the paper, so
+
+       you can’t put me back! Now why should that man have fainted? But he did, and right
+
+       across my path by the wall, so that I had to creep over him every time! (36)
+
+The incidence of male hysteria was discussed and documented by leading medical practitioners
+
+in Europe and England throughout the nineteenth century. Sigmund Freud (1886) presented a
+
+paper on male hysteria before the Viennese Society of Physicians that was built on the work and
+
+established theories of Jean-Martin Charcot’s (1877) Leçons sur les Maladies du Système
+
+Nerveux, Paul Briquet’s (1859) Traité clinique et thérapeutique de l’Hystérie, and Moritz
+
+Benedikt’s (1868) Elekteotherapie. In England, Herbert William Page (1883) documented
+
+evidence of hysteria in the “deplorable state which patients of both sexes, men not less frequently
+
+than women, present when suffering with this condition” (172). Henri Ellenberger (1970) delves
+
+into the history of male hysteria, writing, “since many accident victims were men, the diagnosis
+
+of male hysteria, formerly restricted to men with classical symptoms, was now extended to men
+
+with functional, posttraumatic disorders. . . . In Vienna, the existence of classical male hysteria
+
+was no longer questioned” (439).
+
+
+
+                                                 38
+        Mark Micale (2008), in his review of male hysteria, writes, “The notion that men were as
+
+susceptible as women to hysterical pathology ran counter to prevailing patriarchal ideals and
+
+seemed to entail the need for a substantially revised understanding of masculine human nature”
+
+(193). Feminist logic would assume any medically recognized disorder such as hysteria, when
+
+shared equally across gender, would alleviate the stigmatization associated with it, thereby
+
+removing its “feminine characteristic” from review. The discourse on hysteria aside, feminist
+
+perspective on the plight of the heroine/victim in Gilman’s fiction requires explanation and a
+
+review of her projected fantasies onto the yellow wallpaper. As even the most superficial
+
+feminist review reveals, Gilman has created a situation in which any woman, let alone someone
+
+with a nervous disorder, might experience an irrational reaction. The situation in which the
+
+heroine/victim finds herself places her in immediate danger of relapsing into a separate fantasy
+
+world apart from the actual reality of her contractual obedience and marital obligation. The
+
+central objective of the protagonist is relief from a situation she considers intolerable and, given
+
+her creative proclivity, she projects her unhappiness onto forms of women in the wallpaper (17).
+
+        Analysis of Gilman’s fiction through the perspective of feminist theory asserts arguments
+
+impacting the way the story is read and understood as a woman’s relational experience in a social
+
+culture where approbated forms of institutional authority derive from men. The disadvantages of
+
+this are apparent in the domestic inhibitions recognized by the protagonist as a means of control,
+
+as when Gilman writes, “I get unreasonably angry with John sometimes. I’m sure I never used to
+
+be so sensitive. I think it is due to this nervous condition. But John says if I feel so, I shall
+
+neglect proper self-control; so I take pains to control myself—before him at least” (11). Feminist
+
+theory recognizes control as antithetical to an equitable relationship for women, providing the
+
+reason for the reaction and resistance of the protagonist to look for a means of escape.
+
+
+
+                                                   39
+        The metaphors in Gilman’s text allow readers to fashion cognitive connections that draw
+
+from their own experience and enable them to connect physical structures such as the home and
+
+wallpaper with social institutions that enclose women in contractual obligations such as marriage
+
+and domesticity. While such interpretations rely on the use of a feminist ideology, the literary
+
+metaphors do incline toward perceiving the heroine as a woman trapped by the conventions and
+
+expectations of conforming behavior society imposes. Metaphor relies on overlap, extension, and
+
+grouping of characteristics recognized in correspondents represented in conceptual domains; the
+
+idea that “correspondents” must be recognized and identified successfully suggests possibility of
+
+a breach where the metaphor fails to perform as anticipated. The example used by Kövecses,
+
+“LIFE IS A JOURNEY,” therefore, relies on the cultural understanding of life as a journey taken. The
+
+useful effect of metaphor remains culturally and temporally indebted to recognition of certain
+
+constructs in any given society in which they are allocated meaningful attribution and are
+
+understood as such within that cultural community of shared symbolic meaning. Gilman invites
+
+that intersubjective comparison in her use of the home and wallpaper as symbolic of restraint.
+
+        Gilman’s characterization of the yellow wallpaper invests it as living entity with purpose
+
+when she writes, “This paper looks to me as if it knew what a vicious influence it had! I get
+
+positively angry with the impertinence of it and the everlastingness. But in places where it isn’t
+
+faded and where the sun is just so, I can see a strange, provoking, formless figure” (16-18). The
+
+conceptual metaphor here expresses the idea of the wallpaper as animated and, while different
+
+interpretations can be formed according to the readers’ own subjective experience, conception of
+
+restraint is explicitly perceived by the protagonist as a willful entity that restrains the figures
+
+within its grasp. The wallpaper becomes a substitute for the enclosing conditions of the home
+
+and marriage that contain the protagonist and, by extension, the formless figures of other women.
+
+
+
+                                                   40
+The wallpaper then is conceived of as a material force of opposition corresponding to structured
+
+enclosures as a form of restraint used against women.
+
+Table 1. The Yellow Wallpaper is an Animate Force of Opposition
+Source: Yellow Wallpaper                     Target: Animated Entity
+
+Design and Pattern                           Animus/Influence
+
+Faded Paper                                  Visions/Imaginary Forms
+
+Cross-Hatched Lines                          Constraint/Imprisonment
+
+Opposition                                   Resistance
+
+Foul Odor                                    Decay/Death/Disintegration
+
+Putrid Color                                 Enveloping Miasma/Encroaching/Invasive
+
+Gilman’s example of the wallpaper is retained in its color, odor, and patterns as a palpable form
+of restraint that maps onto the concept of a prison with similar sensorial sensations and function.
+
+
+       The metaphor uses the concept of the wallpaper as a “vicious influence” to impress the
+
+idea that the willfulness of the wallpaper mimics intentional abrogation of women’s freedom by
+
+restricting their authority as rational actors, and it becomes an oppositional force against the will
+
+of those it holds captive evolving into a prison. The protagonist’s uneasy premonition expresses
+
+her recognition of the wallpaper as a physical restraint coinciding with her own intangible sense
+
+of entrapment, as when she writes, “Dear John! . . . I tried to have a real earnest talk with him the
+
+other day and tell him how I wish he would let me go and visit Cousin Henry and Julia” (21).
+
+The longing expressed by the protagonist to get away from her current situation is rebuked by the
+
+authority of her husband who declines to allow her to leave.
+
+
+
+
+                                                 41
+Table 2. Colonial Mansion is Representative of a Social Institutional Structure
+
+Source: Colonial Mansion                              Target: Socio-Institutional Structure
+
+
+Enforces Physical Isolation                           Enforces Social Isolation
+
+
+Domesticity of Structure                              Domesticity of Control and Isolation
+
+
+Assigned Home                                         Assigned Separate Sphere/Ideological Cult
+                                                      of True Womanhood (Purity/Piety)
+
+Barred Windows/Prison                                 Containment/Control/ Restraint/Opposition
+                                                      (Resistance) (Resentment)
+
+Marital Bed                                           Social/Institutional Sanction of Marital
+                                                      Rights
+
+The table above represents corresponding elements in separate domains that map conceptually
+from concrete structures on the left to hypothesized ones on the right. The table represents the
+element of enclosure that is present in both the physical structure of the home and in social
+institutions that mimic its purpose as an isolating and controlling enclosure.
+
+          Gilman’s literary metaphors allow the association of separate and distinct domains by
+
+representing elements within the domains that correspond and have similar characteristics. An
+
+example of metaphor from the text relies on the construct of the home as an enclosed domestic
+
+sphere that separates women from public discourse and constrains women’s public aspirations.
+
+The home as a controlled enclosure maps onto corresponding elements in marriage as a situation
+
+in which women are enclosed, restrained, and controlled, and as table two shows, represents an
+
+enclosure of restraint that is present in both the home and in aspects of social institutions. A third
+
+metaphor lies in the way the character of John is written as a dominant authority in the home and
+
+representative of the social institutions that support his authority and from which he derives his
+
+status.
+
+
+
+                                                 42
+        The authority that adheres to John as both physician and husband anchors in the bedrock
+
+of formal institutions such as medicine and marriage that preclude challenge and rematerialize as
+
+forces of opposition the heroine contends against. Authority is represented in physical form as
+
+John, and conceptually, in the formal institutions that exert control over lesser men and women
+
+by demonstrating how the correspondent of control is present in each domain.
+
+Table 3. John Represents Social, Domestic, and Institutional Control and Authority
+
+Source: John                                      Target: Social, Institutional, Domestic
+                                                  Control and Authority/Rational Actor
+Physician                                         Elevated Social Status/Credibility
+
+
+Husband                                           Domestic, Legal, and Political Authority
+
+
+White Middle and Upper-Class Men                 Visibility/Public Figure/Socially Sanctioned
+                                                 Status/ Institutional Standing and
+                                                 Recognition
+Gilman’s characterization of John as a physician/ husband imbues him with the institutional
+authority to make unilateral decisions in regard to his wife, her health, and her property.
+
+
+        The issue of control appears when the heroine/victim describes her situation to the reader
+
+and asks, “But what is one to do?” and in comments on the need to hide her writing she remarks,
+
+“I did write for a while in spite of them; but it does exhaust me a good deal—having to be so sly
+
+about it, or else meet with heavy opposition” (10). Control is evidenced in John’s presumption to
+
+make unilateral decisions concerning his wife, “John says that if I don’t pick up faster he shall
+
+send me to Weir Mitchell in the fall” (33). The heroine’s casual comment indicates her consent is
+
+not needed. In Gilman’s hypothetical world the metaphor of the woman/victim/heroine who
+
+engages the opposition of controlling authority, whether it is represented physically as her
+
+husband or more abstractly by the social institutions that legislate control, results in her
+
+resistance to that authority.
+
+                                                  43
+       The metaphor of control works because representation of resistance configured in the
+
+woman maps onto ideas of resistance configured in the opposition to social institutions that
+
+demand compliance.
+
+Table 4. Feminist Resistance to Social and Political Control
+
+Source: Women’s Social Movement                    Target: Social and Political Institutions
+
+
+White Middle and Upper-Class Women                 Resistance to Institutional and Political
+                                                   Hierarchies of Exclusion/Conforming Social
+                                                   Expectations of Marital Performance
+
+       It may be Gilman’s feminist formulation of her fictional storyworld serves to inform and
+
+represent the greater ideology of the women’s movement in their opposition and resistance to
+
+subjection. The corresponding element recognized in Gilman’s fiction as resistance can be
+
+mapped onto the resistance of the women’s social movement in its bid for recognition and
+
+equity. The woman/victim/heroine written into Gilman’s fiction corresponds in kind with the
+
+social movement of feminist resistance to the institutionalized authority of white men. Metaphors
+
+involve extension and what H. D. Adamson refers to as, “mapping features not part of the source
+
+concept proper but only part of the background cognitive model in which the source concept is
+
+embedded” as a smaller part of a complex model of associated characteristics that extends the
+
+original metaphor to include those related aspects (75). This constellation of related aspects
+
+coalesce to form a representative whole that takes the “conceptual metaphor in a new direction”
+
+(73). Extension relates metaphors in the text when Gilman writes, “Such a peculiar odor too! If I
+
+turn my head suddenly and surprise it—there is that smell! It is not bad at first, and very gentle,
+
+but quite the subtlest, most enduring odor I ever met . . . The only thing I can think of that it is
+
+like it is the color of the paper! A yellow smell” (29).
+
+
+
+
+                                                  44
+       In the case quoted, the wallpaper, as the source domain, maps the visual element of color
+
+as odor onto the more abstract target domain of intangible sensations where both are connected
+
+by extension of associated characteristics. Gilman’s example of extension represents two distinct
+
+domains, color and odor; offering a novel approach to metaphor by using elements of sensory
+
+perception. Adamson explains a second aspect of metaphor he terms elaboration that works by
+
+“expanding on and supplying details about an aspect of a source domain that is commonly
+
+mapped onto a target domain,” (76). Gilman does this when she elaborates on the wallpaper
+
+writing, “The wallpaper . . . is torn off in spots, and it sticketh closer than a brother” (17). The
+
+elaborated metaphor of the wallpaper sticking to the wall and that of brothers sticking together
+
+works by sharing a common element of attachment as an associated characteristic that exists both
+
+in the wallpaper and in the domain of siblings. In another instance, Gilman extends the rage of
+
+the heroine/victim to the ethereal women who exit from the wallpaper as elaboration of the rage
+
+and insanity that possesses her where it becomes symptomatic of both the real and the unreal.
+
+       A second linguistic strategy, metonymy, associates closely with metaphor, referencing an
+
+aspect or part of the same conceptual domain of the thing or person to represent the whole.
+
+Metonymy can be thought of as an inductive process that reasons from one example of reference
+
+to implicate the entire concept, such as when Gilman images John as indicative of male
+
+authority. Gilman imbues John’s role in the home and in the medical profession with authority,
+
+linking him by dint of metonymic extension to nineteenth-century white men as their
+
+representative. Both the husband and brother of the protagonist represent figures of authority as
+
+individual examples of authority and control in domestic and public space. In another instance,
+
+Gilman’s metonymical fiction represents the woman/victim fighting for her sanity as a singular
+
+instance of the larger women’s social reform movement fighting to restore relational equity.
+
+
+
+                                                  45
+        A third instance of metonymy occurs when the form within the wallpaper takes on a
+
+distinctly feminine shape who shakes angrily at the bars of her prison as reference to other
+
+women similarly trapped, including the protagonist and possibly Gilman herself. Similarly, the
+
+“colonial mansion,” represents a culture that came to define the lives, and occupations of women
+
+(9). John’s role and character in the story can be contextualized both as metaphorical, in that he
+
+is written as representative of social institutions that politically, and systemically diminish
+
+women’s authority, and as metonymic of the presumed authority imbued to white men. In the
+
+latter, John represents the stereotypical white male professional who has an attitude of privilege
+
+and arrogance. John’s assumption of authority contrasts with the heroine’s valiant effort to assert
+
+herself, typecasting his role in the story as overbearing—a presumption that may be typical of his
+
+class or indeed, the literary license of the author.
+
+        In either case, John’s character suggests authority. In the second example, Gilman writes
+
+feminine forms into the wallpaper that desperately seek to find a way out from their prison, a
+
+prison the heroine contrives from the pattern imprinted on the wallpaper. Gilman’s graphic
+
+description contextualizes the wallpaper metaphorically as a prison within the prison of the
+
+house and, as a metonym representative of enclosure. The internment of feminine forms within
+
+the crosshatching of the wallpaper pattern suggests the suffrage of women and the surrender of
+
+their freedom. The wallpaper becomes symbolic of women’s separation from public life and
+
+imagined captivity in the home as well as women’s repressed anger toward their guards/captors.
+
+The drafting of the wallpaper as a barrier demonstrates the private seclusion that encumbered
+
+women’s domestic lives. Notably, the wallpaper in form and function takes on the guise of a
+
+living entity to haunt the protagonist in her home. As such, the portrayal of the wallpaper
+
+exemplifies the gothic influence that styled women’s writing.
+
+
+
+                                                  46
+       The same gothic reference extends to the “colonial mansion” mentioned in the text as the
+
+type of home that invites gracious living with extended gardens and walkways. The house tends
+
+to suggest other homes representing the lifestyle of white upper-class society patrons, such as
+
+lawyers and physicians, who could afford to rent or own such homes. The final example of
+
+metonymy occurs with the characterization of the protagonist as a woman driven to insanity by
+
+the combined opposition of her husband and the institutions that supported his authority over her.
+
+The depression she endures as a result of her dependence on him and her acknowledged place
+
+within the hierarchy of social and institutional power locates her among other women who also
+
+experienced displacement and diminution because of their gender. John’s role as a member of
+
+that elite class who commands authority contrasts vividly with the role written for the heroine,
+
+who typifies the quiet reservation of domestic women who lived quietly in the shadow of their
+
+husbands. The submission experienced by the heroine in the story can be extended to represent
+
+the experience of other women who had demands placed upon them in the marital relationship.
+
+Although the physician/husband transgress the normative conduct of most men, so, too, does the
+
+example of the protagonist; yet both become symbols in metonymic representation.
+
+       Narrative gap is a literary device writers use to their advantage and Gilman’s use of it
+
+allows readers to hypothesize what could have happened in her story when she fails to disclose
+
+that information. Narrative gaps are textual omissions of occurrences that have happened and are
+
+a part of the story, but which remain undisclosed to the reader. Gilman illustrates an example of
+
+a narrative lapse when she ends her first paragraph, “There comes John, and I must put this
+
+away—he hates to have me write a word.” The narrator fails to disclose why this is important or
+
+what could have precipitated the edict against her writing. The next paragraph begins with, “We
+
+have been here two weeks, and I haven’t felt like writing before, since that first day” (13).
+
+
+
+                                                 47
+       The gap in between what happened in the prior two weeks is left open to the reader’s
+
+imagination. The scene, as it is written, becomes a poignant space of untold narrative and a time
+
+in which something has occurred, but is left abruptly unsaid. In another instance, Gilman writes,
+
+“There’s sister on the stairs!” and, just as before, Gilman ends her paragraph leaving the reader
+
+to imagine or construct some meaning to its importance (18). In the next paragraph, Gilman
+
+writes, “Well the Fourth of July is over!” Again, something has occurred in the interval but left
+
+untold, leaving the reader to fill in the missing narrative (18). In another example of a narrative
+
+gap, Gilman suddenly introduces an infant without any preamble to alert the reader writing, “Of
+
+course it is only nervousness. It does weigh on me so not to do my duty in any way! . . . Nobody
+
+would believe what an effort it is to do what little I am able—to dress and entertain, and order
+
+things. It is fortunate Mary is so good with the baby. Such a dear baby!” (14). In this first of two
+
+references to a child, Gilman declines to explain whose child it is, how the child figures into the
+
+text, or what happened prior to this cursory introduction or, later, what becomes of the child.
+
+Indeed, the name “Mary” occurs only once, without prior introduction or explanation.
+
+       Yet another instance occurs with the transition of the protagonist into the madness that
+
+engulfs her sanity; the process has been gradual, but definitive. While Gilman carefully relates
+
+the protagonist’s obsession with the pattern and design of the wallpaper, there is no account of
+
+how or why she slips into the conviction that women exist behind its façade. The reader is left to
+
+infer from what has been written that it is the protagonist who sees herself as trapped, but the
+
+narrative fails to make this hypothesis clear or to confirm it and, instead, requires the reader to
+
+resolve the absence of information. An example occurs in reference to a “rope” the protagonist
+
+secures and for the first time the protagonist declares, “I wonder if they all came out of that
+
+wallpaper as I did? But I am securely fastened now by my well-hidden rope” (35).
+
+
+
+                                                 48
+        In this line of text, something strange has occurred and been left inexplicably untold, and
+
+in the gap that ensues, the protagonist slips through the lined bars of the wallpaper and merges
+
+her identity with the fantasized forms of women fleeing its influence. The final instance occurs in
+
+the last lines of the text, when John enters the locked room where the protagonist has secured
+
+herself, and she declares, “‘I’ve got out at last,’ said I, ‘in spite of you and Jane’” (36). While this
+
+is the first mention of “Jane,” it can be inferred from the text that she is the narrator of the story,
+
+and she has dissociated from herself by merging her identity with the anonymous women who
+
+are exiting the wallpaper. It is possible that “Jane,” as an anxious and submissive wife, may have
+
+been a threat to the new identity assumed by the protagonist and opposed her quest to escape.
+
+        The textual omissions present spaces where readers are invited to construct the story and
+
+apply their own hypothesized endings grounded in interconnected networks of experience.
+
+Narrative gaps and omissions of silence are interesting literary features that enhance hypothetical
+
+text worlds with their creative capacity to form indeterminacies in the text that open alternative
+
+possibilities for readers. Gilman’s decision to abrogate her text at critical junctures of revelation
+
+combines with the indeterminate nature of the text to pose difficult questions of interpretation for
+
+readers, who are, as Iser notes, “driven by the urge to group things together and unravel the
+
+tangle, but any attempt to do so reflects [their] own personal preferences rather than any
+
+supposed objective meaning” (111). The question of indeterminacies in narrative are in and of
+
+themselves interesting subjects of conjecture among literary theorists, who argue the full extent
+
+of a text can never be fully known, nor any tale ever told in its entirety (Iser:1980, 55). Gilman’s
+
+deliberate omissions of narrative qualify to fulfill that obligation between author and reader to
+
+create and make sense of possible worlds of fantasy and fiction to satisfy that commitment.
+
+
+
+
+                                                   49
+                                     CHAPTER 6. SUMMARY
+
+       The text used in this analysis follows the version most closely confirmed as Gilman’s
+
+original writing and, therefore, contains her exclamation marks, abbreviated sentence structure
+
+and, most importantly, the way in which Gilman structures her abrupt and arbitrary paragraphs.
+
+A fundamental feature of Gilman’s writing is the abrupt shift of topic without explanation,
+
+creating what Bernaerts refers to as “narrative lacunae” in which reader’s “mobilize . . .
+
+knowledge and experience to supplement what is left unsaid” (2). Gilman’s artful use of silence
+
+in an unfinished line of thought or text and her abrupt ending of a paragraph set it apart from the
+
+rest of her narrative, emulating the style and manner of a personal account or diary. In such an
+
+account, the reader is left to infer from these expressive silences the author’s intent. While this
+
+analysis adheres to a feminist interpretation of the text, the results appear to validate that
+
+perspective, given the author was committed to a platform of activism defending women’s rights
+
+and underwent a similar experience of isolation. The application of Hypothetical World Theory
+
+applies well to this analysis in that it supplies the necessary ideas substantiating theories of mind
+
+and the construction of possible alternatives in fictional worlds. In her use of linguistic features,
+
+Gilman achieves her intended meanings and salience through textual omissions that insert gaps
+
+into the text that allow/insist upon the intervention of the reader’s understanding through which
+
+new texts are composed. In Gilman’s story, the narrative gaps, inexplicable silences, and
+
+omissions of text are literary devices to create spaces in the text where readers are invited to
+
+participate in fashioning alternative endings by filling in what has not been written or by
+
+imagining what could have happened. The abrupt and awkward silences that mark her text
+
+conflict with the smooth continuity of the script and disrupt the comfortable expectations of the
+
+reader, who, instead of revelation, finds empty spaces of absent narration.
+
+
+
+                                                  
+
